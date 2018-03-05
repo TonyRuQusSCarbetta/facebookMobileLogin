@@ -1,0 +1,109 @@
+/* Section */
+
+.facebook {
+  background-color: #f2f2f2;
+}
+
+/* Logo */
+
+.logo {
+  background-color: #4267b2;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.logo a {
+  color: #fff;
+  display: inline-block;
+  font-family: 'Open Sans';
+  sans-serif;
+  font-size: 32px;
+  font-weight: 600;
+  padding: 10px;
+  text-decoration: none;
+}
+
+/* Intro */
+
+.intro {
+  background-color: #fafcd2;
+  border: 5px solid #fafa9d;
+  border-radius: 17px;
+  position: relative;
+  font-size: 13px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.intro h1 {
+  position: relative;
+  left: 40px;
+  margin: 5px;
+}
+
+.intro a {
+  text-decoration: none;
+  color: #4267b2;
+}
+
+/* IMAGE */
+
+.phoneicon {
+  top: 5px;
+  position: absolute;
+  height: 25px;
+  width: 30px;
+  left: 5px;
+}
+
+/* CTA */
+
+.cta {
+  margin: 0 auto;
+  width: 90%;
+  text-align: center;
+}
+
+.cta input {
+  box-sizing: border-box;
+  display: block;
+  width: 100%;
+  margin: -1 0;
+  padding: 10px;
+}
+
+.cta .login {
+  background-color: #4267b2;
+  width: 100%;
+  border: none;
+  color: white;
+  border-radius: 6px;
+  padding: 10px 0;
+  margin: 10px 0px;
+}
+
+.cta .newaccount {
+  background-color: #30903a;
+  width: 30%;
+  border: none;
+  color: white;
+  border-radius: 6px;
+  padding: 10px 0;
+  margin: 10px 0px;
+}
+
+.cta .button {
+  background-color: #4267b2;
+  width: 100%;
+  border: none;
+  color: white;
+  border-radius: 6px;
+  padding: 10px 0;
+  margin: 10px 0px;
+}
+
+.cta p a {
+  color: #4267b2;
+  text-decoration: none;
+  margin-bottom: 20px;
+}
